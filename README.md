@@ -1,4 +1,4 @@
-## Hi, my name is Martina Azabo
+  - 👋 Hi, I’m Martina Azabo
   - 🏫 I’m currently a fourth Computer Science student at SDSU
   - 🌱 I'm interested in frontend and backend development, game development, AI, and Machine Learning
   - 🔭 I’m looking to collaborate on any project that helps me develop my skills and create a collaborative environments
